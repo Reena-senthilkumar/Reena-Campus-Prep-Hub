@@ -5,6 +5,92 @@
 🌟━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌟
 </pre>
 
+🔢 1. Number System
+
+1. Find the smallest number which when divided by 6, 8, and 12 leaves remainder 1.
+
+
+
+
+---
+
+📊 2. Ratio & Proportion
+
+2. The ratio of boys to girls in a class is 3:5. If there are 24 boys, how many girls are there?
+
+
+
+
+---
+
+📈 3. Percentage
+
+3. A number is increased by 20% and then decreased by 20%. Find the net percentage change.
+
+
+
+
+---
+
+💰 4. Profit & Loss
+
+4. An article is sold for ₹960 at a gain of 20%. Find the cost price.
+
+
+
+
+---
+
+⏱ 5. Time & Work
+
+5. A can complete a work in 10 days and B in 15 days. In how many days will they complete the work together?
+
+
+
+
+---
+
+🚰 6. Pipes & Cisterns
+
+6. Pipe A fills a tank in 6 hours and Pipe B fills it in 12 hours. If both are opened together, how long will it take to fill the tank?
+
+
+
+
+---
+
+🚆 7. Trains
+
+7. A train 120 m long is moving at a speed of 54 km/h. How much time will it take to cross a man standing on the platform?
+
+
+
+
+---
+
+🚴 8. Speed, Time & Distance
+
+8. A man walks at 5 km/h and returns by cycling at 10 km/h. Find his average speed for the whole journey.
+
+
+
+
+---
+
+🧃 9. Mixture & Alligation
+
+9. In what ratio should water be mixed with milk to get a profit of 25% by selling the mixture at cost price?
+
+
+
+
+---
+
+🧮 10. Probability
+
+10. A die is thrown once. What is the probability of getting a prime number?
+
+
 
 1. Joining Late (Partnership)
 A invests ₹60,000 for the whole year. B joins after 3 months with ₹40,000. At the end of the year, the profit is ₹50,000. Find the share of each.
