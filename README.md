@@ -6,6 +6,48 @@
 🌟━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌟
 </pre>
 
+🔢 1) Percentage
+What is 25% of 480?
+💰 2) Profit & Loss
+A shopkeeper buys a pen for ₹80 and sells it for ₹100.
+Find the profit %.
+🏦 3) Simple Interest
+Find SI on ₹2000 at 10% for 2 years.
+🏦 4) Compound Interest
+Find CI on ₹1000 at 10% for 2 years.
+⚖️ 5) Ratio
+Divide ₹900 in the ratio 2 : 3.
+🧮 6) Average
+The average of 4 numbers is 25.
+Find the total sum.
+👷 7) Time & Work
+8 men can complete a work in 12 days.
+How many days will 6 men take?
+🚰 8) Pipes
+Pipe A fills tank in 10 hours.
+Pipe B fills tank in 20 hours.
+How much time together?
+🚆 9) Speed
+A train covers 180 km in 3 hours.
+Find speed in km/h.
+🎲 10) Probability
+Two coins are tossed.
+Find probability of getting at least one head.
+🔢 11) Permutation
+How many ways can letters of word DOG be arranged?
+🔢 12) Combination
+Find value of 5C2.
+👴 13) Ages
+Father is 3 times son’s age.
+After 5 years, father will be 2 times son.
+Find son’s present age.
+💼 14) Partnership
+A invests ₹40,000 for 12 months.
+B invests ₹20,000 for 12 months.
+Find profit ratio.
+🔄 15) LCM
+Find LCM of 12 and 18.
+
 🔢 1. Number System
 
 1. Find the smallest number which when divided by 6, 8, and 12 leaves remainder 1.
