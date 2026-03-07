@@ -6,6 +6,35 @@
 🌟━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌟
 </pre>
 
+1️⃣ Percentage
+A number is increased by 20% and then decreased by 20%.
+What is the overall change?
+a) 0%
+b) 4% decrease
+c) 4% increase
+d) 2% decrease
+2️⃣ Ratio
+The ratio of boys to girls in a class is 3 : 5.
+If there are 40 students, how many girls are there?
+3️⃣ Time and Work
+A can complete a work in 12 days and B can complete it in 18 days.
+If they work together, how many days will they take to finish the work?
+4️⃣ Average
+The average of 5 numbers is 24.
+If one number is removed, the average becomes 20.
+What is the removed number?
+5️⃣ Number Problem
+Find the number which when divided by 5 gives remainder 3, and when divided by 7 gives remainder 4.
+Smallest possible number.
+6️⃣ Profit and Loss
+A shopkeeper buys a product for ₹500 and sells it for ₹575.
+Find the profit percentage.
+7️⃣ Train Problem
+A train 120 m long passes a pole in 6 seconds.
+Find the speed of the train.
+8️⃣ Simple Interest
+Find the simple interest on ₹2000 at 5% per year for 3 years.
+
 🔢 1) Percentage
 What is 25% of 480?
 💰 2) Profit & Loss
