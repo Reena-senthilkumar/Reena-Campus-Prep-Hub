@@ -6,6 +6,88 @@
 🌟━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌟
 </pre>
 
+Aptitude (1–4)
+1.
+If the price of a shirt increases from ₹500 to ₹600, what is the percentage increase?
+A) 10%
+B) 15%
+C) 20%
+D) 25%
+2.
+A train 150 m long passes a pole in 10 seconds.
+Find the speed of the train.
+A) 36 km/hr
+B) 45 km/hr
+C) 54 km/hr
+D) 60 km/hr
+3.
+The average of 5 numbers is 24.
+Find the total sum of the numbers.
+A) 100
+B) 110
+C) 120
+D) 130
+4.
+If A:B = 3:4 and B:C = 2:5, find A:C.
+A) 3:10
+B) 6:20
+C) 3:5
+D) 6:15
+Reasoning (5–8)
+5.
+Find the next number:
+3, 9, 27, 81, ?
+A) 162
+B) 243
+C) 324
+D) 729
+6.
+If CAT = DBU, then DOG = ?
+A) EPH
+B) FQI
+C) EPH
+D) EOG
+7.
+Find the missing number:
+5, 10, 20, 40, ?
+A) 60
+B) 70
+C) 80
+D) 90
+8.
+If South becomes North-East, then West becomes ?
+A) North
+B) South-East
+C) South-West
+D) East
+Verbal (9–12)
+9.
+Choose the correct sentence:
+A) She don't like coffee
+B) She doesn't likes coffee
+C) She doesn't like coffee
+D) She not like coffee
+10.
+Choose the synonym of "Rapid"
+A) Slow
+B) Fast
+C) Lazy
+D) Weak
+11.
+Fill in the blank:
+He is afraid ______ dogs.
+A) with
+B) of
+C) from
+D) by
+12.
+Choose the correct word:
+They ______ playing football.
+A) is
+B) are
+C) was
+D) be
+
 1️⃣ Percentage
 A number is increased by 20% and then decreased by 20%.
 What is the overall change?
