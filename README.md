@@ -6,6 +6,76 @@
 🌟━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌟
 </pre>
 
+Q1. Number Series
+2, 6, 12, 20, 30, ___
+a) 36
+b) 40
+c) 42
+d) 48
+Q2. Coding–Decoding
+If DOG = FQI, then CAT = ?
+a) FDW
+b) FDV
+c) EDV
+d) ECV
+Q3. Direction Sense
+A man walks 20 m north, then 10 m west, then 20 m south.
+Where is he now from the starting point?
+a) 10 m East
+b) 10 m West
+c) 20 m West
+d) 20 m East
+Q4. Blood Relation
+Pointing to a girl, Ramesh said:
+"She is the daughter of my mother's only daughter."
+Who is the girl to Ramesh?
+a) Sister
+b) Daughter
+c) Cousin
+d) Niece
+Q5. Odd One Out
+a) Pen
+b) Pencil
+c) Eraser
+d) Book
+Q6. Analogy
+Bird : Fly :: Fish : ?
+a) Walk
+b) Swim
+c) Jump
+d) Run
+Q7. Alphabet Series
+A, D, G, J, ___, P
+a) K
+b) L
+c) M
+d) N
+Q8. Number Logic
+If 5 + 3 = 28
+6 + 4 = 40
+Then 7 + 5 = ?
+a) 48
+b) 60
+c) 56
+d) 70
+Q9. Statement & Conclusion
+Statement:
+All apples are fruits.
+Some fruits are sweet.
+Conclusions:
+Some apples are sweet
+All fruits are apples
+a) Only 1 follows
+b) Only 2 follows
+c) Both follow
+d) None follow
+Q10. Missing Number
+4, 9, 16, 25, ___
+a) 30
+b) 36
+c) 35
+d) 49
+
 Aptitude (1–4)
 1.
 If the price of a shirt increases from ₹500 to ₹600, what is the percentage increase?
