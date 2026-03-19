@@ -150,6 +150,7 @@ A) with
 B) of
 C) from
 D) by
+
 12.
 Choose the correct word:
 They ______ playing football.
