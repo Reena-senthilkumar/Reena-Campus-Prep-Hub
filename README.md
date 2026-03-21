@@ -11,6 +11,7 @@ a) 36
 b) 40
 c) 42
 d) 48
+
 Q2. Coding–Decoding
 If DOG = FQI, then CAT = ?
 a) FDW
@@ -18,6 +19,7 @@ b) FDV
 c) EDV
 d) ECV
 Q3. Direction Sense
+
 A man walks 20 m north, then 10 m west, then 20 m south.
 Where is he now from the starting point?
 a) 10 m East
